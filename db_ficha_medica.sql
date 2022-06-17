@@ -1,7 +1,3 @@
-/*NOMES: 
-WESLEY WILLIAN GOULART RM:08684
-GABRIEL JOSE RM: 08447 */
-
 create database db_ficha_medica;
 
 use db_ficha_medica;
